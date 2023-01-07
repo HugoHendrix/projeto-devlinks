@@ -6,13 +6,7 @@ Nesse incrível projeto da RocketSeat, o educador, Maik Brito nos orinetou para 
 
 ![App Screenshot](https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg?raw=truetext=App+Screenshot+Here)
 
-🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-JavaScript
-Git e Github
-Figma
 
 ## Aprendizados
 
@@ -25,9 +19,3 @@ Aprendi utilizar Shorthands (atalhos).
 É uma técnica que permite escrever declarações de estilo de forma rápida e eficiente.
 
 No projeto, também aprendi a com o criar o botão toggle, e com o variáveis CSS e um pouco de JS, foi possível criar o tema dark e o light.
-
-🔖 Layout
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
-
-📝 Licença
-Esse projeto está sob a licença MIT.
